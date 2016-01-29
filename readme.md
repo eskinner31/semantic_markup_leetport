@@ -2,7 +2,7 @@
 
 ##Challenge
 
-Re-create LeetPort's checkout page by hand utilizing semantic markup. Be sure to get the page to look as close as possible to the image.
+Re-create LeetPort's checkout page by hand utilizing semantic markup. Be sure to get the page to look as close as possible to the image. All of your html must pass validation. 
 
 ![LeetPort CheckOut page](./images/LeetPort.png)
 
